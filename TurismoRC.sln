@@ -1,0 +1,42 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.28307.1433
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{E24C65DC-7377-472B-9ABA-BC803B73C61A}") = "TurismoRC", "TurismoRC\", "{8ECAF348-02A0-4936-ABB9-4BBCD8AB378C}"
+	ProjectSection(WebsiteProperties) = preProject
+		TargetFrameworkMoniker = ".NETFramework,Version%3Dv4.6.1"
+		Debug.AspNetCompiler.VirtualPath = "/localhost_61490"
+		Debug.AspNetCompiler.PhysicalPath = "TurismoRC\"
+		Debug.AspNetCompiler.TargetPath = "PrecompiledWeb\localhost_61490\"
+		Debug.AspNetCompiler.Updateable = "true"
+		Debug.AspNetCompiler.ForceOverwrite = "true"
+		Debug.AspNetCompiler.FixedNames = "false"
+		Debug.AspNetCompiler.Debug = "True"
+		Release.AspNetCompiler.VirtualPath = "/localhost_61490"
+		Release.AspNetCompiler.PhysicalPath = "TurismoRC\"
+		Release.AspNetCompiler.TargetPath = "PrecompiledWeb\localhost_61490\"
+		Release.AspNetCompiler.Updateable = "true"
+		Release.AspNetCompiler.ForceOverwrite = "true"
+		Release.AspNetCompiler.FixedNames = "false"
+		Release.AspNetCompiler.Debug = "False"
+		VWDPort = "61490"
+		SlnRelativePath = "TurismoRC\"
+		DefaultWebSiteLanguage = "Visual C#"
+	EndProjectSection
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{8ECAF348-02A0-4936-ABB9-4BBCD8AB378C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8ECAF348-02A0-4936-ABB9-4BBCD8AB378C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {15FC2204-FCB1-4A5C-90DE-180D0B0F22A7}
+	EndGlobalSection
+EndGlobal
