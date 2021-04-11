@@ -30,7 +30,7 @@
         <tr>
             <td>&nbsp;</td>
             <td class="auto-style3">
-                <asp:GridView ID="GV_Solicitudes" runat="server" AutoGenerateColumns="False" DataSourceID="ODS_Solicitudes">
+                <asp:GridView ID="GV_Solicitudes" runat="server" AutoGenerateColumns="False" DataSourceID="ODS_Solicitudes" OnSelectedIndexChanged="GV_Solicitudes_SelectedIndexChanged">
                     <Columns>
                         <asp:BoundField DataField="Nombre" HeaderText="Nombre" SortExpression="Nombre" />
                         <asp:BoundField DataField="Direccion" HeaderText="Direccion" SortExpression="Direccion" />
